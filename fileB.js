@@ -100,3 +100,32 @@ total 7
 ../../Videos:
 total 1
 -rw-r--r-- 1 myTraining 197121 504 Oct 12  2014 desktop.ini
+../day2warmup:
+total 2
+1 -rw-r--r-- 1 myTraining 197121 135 Mar 13 10:17 file1.js
+1 -rw-r--r-- 1 myTraining 197121 133 Mar 13 10:18 file2.js
+
+../exercise1:
+total 3
+1 -rw-r--r-- 1 myTraining 197121 59 Mar 12 13:45 andrew.txt
+1 -rw-r--r-- 1 myTraining 197121 76 Mar 12 14:21 bonnie.js
+1 -rw-r--r-- 1 myTraining 197121 88 Mar 12 14:22 daniel.js
+
+../exercise2:
+total 0
+0 -rw-r--r-- 1 myTraining 197121 0 Mar 13 10:27 file1.js
+0 -rw-r--r-- 1 myTraining 197121 0 Mar 13 10:27 file2.js
+
+../exercise3A:
+total 4
+4 -rw-r--r-- 1 myTraining 197121 749 Mar 13 11:01 newfile.js
+
+../exercise3B:
+total 8
+8 -rw-r--r-- 1 myTraining 197121 5118 Mar 13 11:23 fileB.js
+
+../git-cmd-demos:
+total 1
+0 -rw-r--r-- 1 myTraining 197121  0 Mar 13 10:31 file3.js
+1 -rw-r--r-- 1 myTraining 197121 80 Mar 12 14:28 helloWorld.js
+0 drwxr-xr-x 1 myTraining 197121  0 Mar 12 13:19 names/
