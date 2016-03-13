@@ -100,3 +100,50 @@ total 7
 ../../Videos:
 total 1
 -rw-r--r-- 1 myTraining 197121 504 Oct 12  2014 desktop.ini
+../day2warmup:
+total 14
+drwxr-xr-x 1 myTraining 197121   0 Mar 13 10:18 ./
+drwxr-xr-x 1 myTraining 197121   0 Mar 13 11:01 ../
+drwxr-xr-x 1 myTraining 197121   0 Mar 13 10:25 .git/
+-rw-r--r-- 1 myTraining 197121 135 Mar 13 10:17 file1.js
+-rw-r--r-- 1 myTraining 197121 133 Mar 13 10:18 file2.js
+
+../exercise1:
+total 15
+drwxr-xr-x 1 myTraining 197121  0 Mar 12 14:22 ./
+drwxr-xr-x 1 myTraining 197121  0 Mar 13 11:01 ../
+drwxr-xr-x 1 myTraining 197121  0 Mar 12 14:22 .git/
+-rw-r--r-- 1 myTraining 197121 59 Mar 12 13:45 andrew.txt
+-rw-r--r-- 1 myTraining 197121 76 Mar 12 14:21 bonnie.js
+-rw-r--r-- 1 myTraining 197121 88 Mar 12 14:22 daniel.js
+
+../exercise2:
+total 12
+drwxr-xr-x 1 myTraining 197121 0 Mar 13 10:27 ./
+drwxr-xr-x 1 myTraining 197121 0 Mar 13 11:01 ../
+drwxr-xr-x 1 myTraining 197121 0 Mar 13 10:29 .git/
+-rw-r--r-- 1 myTraining 197121 0 Mar 13 10:27 file1.js
+-rw-r--r-- 1 myTraining 197121 0 Mar 13 10:27 file2.js
+
+../exercise3A:
+total 12
+drwxr-xr-x 1 myTraining 197121   0 Mar 13 11:01 ./
+drwxr-xr-x 1 myTraining 197121   0 Mar 13 11:01 ../
+drwxr-xr-x 1 myTraining 197121   0 Mar 13 11:01 .git/
+-rw-r--r-- 1 myTraining 197121 749 Mar 13 11:01 newfile.js
+
+../exercise3B:
+total 16
+drwxr-xr-x 1 myTraining 197121    0 Mar 13 11:40 ./
+drwxr-xr-x 1 myTraining 197121    0 Mar 13 11:01 ../
+drwxr-xr-x 1 myTraining 197121    0 Mar 13 12:57 .git/
+-rw-r--r-- 1 myTraining 197121 5118 Mar 13 11:40 fileB.js
+
+../git-cmd-demos:
+total 13
+drwxr-xr-x 1 myTraining 197121  0 Mar 13 10:31 ./
+drwxr-xr-x 1 myTraining 197121  0 Mar 13 11:01 ../
+drwxr-xr-x 1 myTraining 197121  0 Mar 13 10:32 .git/
+-rw-r--r-- 1 myTraining 197121  0 Mar 13 10:31 file3.js
+-rw-r--r-- 1 myTraining 197121 80 Mar 12 14:28 helloWorld.js
+drwxr-xr-x 1 myTraining 197121  0 Mar 12 13:19 names/
